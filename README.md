@@ -4,7 +4,7 @@
 * 💞️  I’m looking to collaborate on automation testing projects
 * 📫  How to reach me <br />
   * Linkedin: https://www.linkedin.com/in/jason-ph%E1%BA%A1m-35a63056/ <br />
-  * Skype: pqdhung@gmail.com <br />
+  * Email: pqdhung@gmail.com <br />
   * Phone: +84919118867 <br />
 
 <!---
