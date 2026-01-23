@@ -12,13 +12,13 @@ My goal is to ensure quality across the entire stack—from the UI the user sees
 
 | **Quality Engineering (SDET)** | **Data Engineering** |
 | :--- | :--- |
-| 🧪 **Frameworks:** Playwright, Cypress, Robot, Selenium | 💾 **Core:** SQL (Strong), NoSQL, Data Modeling |
-| 💻 **Languages:** TypeScript, JavaScript, Java | 🐍 **Scripting:** Python, Shell |
-| ⚡ **Performance:** K6, JMeter | 🔄 **Processes:** ETL/ELT Reliability, Data Quality Checks |
-| 📱 **Mobile:** Appium, Detox | ☁️ **Cloud:** AWS (Certified Cloud Practitioner) |
+| ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=Playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-00C0B5?style=flat-square&logo=robot-framework&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **Performance:** K6, JMeter | **Focus:** ETL Reliability, Data Modeling |
+| **Mobile:** Appium, Detox | **Focus:** Data Quality Checks |
 
 **CI/CD & DevOps:**
-Git, GitHub Actions, CircleCI, Jenkins, Docker, Kubernetes
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -34,7 +34,7 @@ I am currently focusing on **Data Quality Automation** and **AI-Driven Testing**
 
 ### 📜 Certifications
 
-* ☁️ **AWS Certified Cloud Practitioner**
+* ![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -42,6 +42,6 @@ I am currently focusing on **Data Quality Automation** and **AI-Driven Testing**
 
 I am open to opportunities in **Data Engineering** and **QA Automation**. If you need someone who understands how to build quality into both software and data pipelines, let's chat.
 
-* **LinkedIn:** [Jason Pham](https://www.linkedin.com/in/jason-ph%E1%BA%A1m-35a63056/)
+* **LinkedIn:** [Jason Pham](https://www.linkedin.com/in/jason-hung-ph/)
 * **Email:** [pqdhung@gmail.com](mailto:pqdhung@gmail.com)
 * **Phone:** +358 44 243 8867
