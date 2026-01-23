@@ -1,34 +1,46 @@
 # Hi there, I’m Hung (Jason) Pham 👋
 
-### 🚀 Automation Engineer | SDET | Data Engineer | Quality Enthusiast
+### 🚀 SDET | Data Engineer | Quality Enthusiast
 
-I specialize in building robust automation frameworks and ensuring software quality through modern testing technologies. My focus is on creating efficient, scalable, and AI-enhanced testing solutions that accelerate release cycles.
+I am a dual-track engineer bridging the gap between **Software Quality** and **Data Engineering**. With over 10 years of experience in QA and a strong foundation in data solutions, I build robust automation frameworks and scalable data pipelines.
+
+My goal is to ensure quality across the entire stack—from the UI the user sees to the SQL queries and ETL processes that power the backend.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-* **Languages:** JavaScript (ES6+), TypeScript, Python
-* **Automation Frameworks:** Playwright, Cypress, Robot
-* **Performance Testing:** K6, JMeter
-* **Emerging Tech:** AI-driven testing, LLM integration in QA workflows, Data workflows
-* **CI/CD & Tools:** Git, Github Actions, CircleCI, TeamCity, Jenkins, Docker
+| **Quality Engineering (SDET)** | **Data Engineering** |
+| :--- | :--- |
+| 🧪 **Frameworks:** Playwright, Cypress, Robot, Selenium | 💾 **Core:** SQL (Strong), NoSQL, Data Modeling |
+| 💻 **Languages:** TypeScript, JavaScript, Java | 🐍 **Scripting:** Python, Shell |
+| ⚡ **Performance:** K6, JMeter | 🔄 **Processes:** ETL/ELT Reliability, Data Quality Checks |
+| 📱 **Mobile:** Appium, Detox | ☁️ **Cloud:** AWS (Certified Cloud Practitioner) |
+
+**CI/CD & DevOps:**
+Git, GitHub Actions, CircleCI, Jenkins, Docker, Kubernetes
 
 ---
 
 ### 🌱 Current Focus
 
-I am currently expanding my expertise in **AI-powered testing** and **Performance Engineering**, looking for ways to bridge the gap between traditional automation and intelligent quality assurance.
+I am currently focusing on **Data Quality Automation** and **AI-Driven Testing**, looking for ways to apply engineering rigor to data workflows.
 
-* 🔭 Working on advanced **Automation Testing** patterns for complex UI interactions.
-* 📈 Implementing performance benchmarks for web applications.
-* 🤖 Exploring how AI agents can optimize test case generation.
+* 🔭 Building reliable **ETL processes** and validating data integrity using Python & SQL.
+* 🤖 Exploring **LLM integration** to optimize test case generation and data analysis.
+* 📈 Bridging the gap between **Performance Engineering** and scalable data architecture.
+
+---
+
+### 📜 Certifications
+
+* ☁️ **AWS Certified Cloud Practitioner**
 
 ---
 
 ### 📫 Let's Connect
 
-I am open to opportunities in Automation and QA Engineering. If you are looking for someone to drive quality and efficiency in your engineering team, feel free to reach out.
+I am open to opportunities in **Data Engineering** and **QA Automation**. If you need someone who understands how to build quality into both software and data pipelines, let's chat.
 
 * **LinkedIn:** [Jason Pham](https://www.linkedin.com/in/jason-ph%E1%BA%A1m-35a63056/)
 * **Email:** [pqdhung@gmail.com](mailto:pqdhung@gmail.com)
