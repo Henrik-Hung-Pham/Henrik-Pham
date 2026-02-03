@@ -13,7 +13,7 @@ My goal is to ensure quality across the entire stack—from the UI the user sees
 | **Quality Engineering (SDET)** | **Data Engineering** |
 | :--- | :--- |
 | ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=Playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
-| ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-00C0B5?style=flat-square&logo=robot-framework&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-00C0B5?style=flat-square&logo=robot-framework&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 | **Performance:** K6, JMeter | **Focus:** ETL Reliability, Data Modeling |
 | **Mobile:** Appium, Detox | **Focus:** Data Quality Checks |
 
