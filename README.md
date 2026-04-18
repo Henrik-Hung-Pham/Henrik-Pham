@@ -1,47 +1,65 @@
-# Hi there, I’m Hung (Jason) Pham 👋
+# Hung (Jason) Pham
 
-### 🚀 SDET | Data Engineer | Quality Enthusiast
+### Senior QA Automation Engineer, AI Quality Specialist
+**10+ years, 5 countries, scaled a $1B unicorn from zero QA.**
 
-I am a dual-track engineer bridging the gap between **Software Quality** and **Data Engineering**. With over 10 years of experience in QA and a strong foundation in data solutions, I build robust automation frameworks and scalable data pipelines.
+I help engineering teams ship faster without breaking things. Over the past decade I've built quality systems at scale, from being the first QA engineer at a $1B HR tech unicorn supporting 200+ developers, to leading automation for a crypto exchange handling real money, to coordinating cross-regional testing between Vietnam, Australia, and Singapore.
 
-My goal is to ensure quality across the entire stack—from the UI the user sees to the SQL queries and ETL processes that power the backend.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-| **Quality Engineering (SDET)** | **Data Engineering** |
-| :--- | :--- |
-| ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=Playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
-| ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-00C0B5?style=flat-square&logo=robot-framework&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| **Performance:** K6, JMeter | **Focus:** ETL Reliability, Data Modeling |
-| **Mobile:** Appium, Detox | **Focus:** Data Quality Checks |
-
-**CI/CD & DevOps:**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+Currently consulting on AI quality and building self-healing test frameworks with OpenAI and Gemini. Based in Turku, Finland, with EU work authorization.
 
 ---
 
-### 🌱 Current Focus
+### 📊 Impact at a glance
 
-I am currently focusing on **Data Quality Automation** and **AI-Driven Testing**, looking for ways to apply engineering rigor to data workflows.
+| Company | Role | What I shipped |
+| --- | --- | --- |
+| **Employment Hero** ($1B HR tech unicorn) | First QA, built from zero | ~70% less manual regression effort, CI/CD gateways with ~99% uptime, quality culture for 200+ devs across multiple squads |
+| **MessageMedia** (global messaging) | Senior QA, cross-regional lead | End-to-end release automation praised company-wide, coordinated QA between VN and AU teams |
+| **Quoine / Liquid Exchange** (fintech) | Senior QA Automation | 3 automation frameworks (Web, Mobile, API) for high-stakes crypto trading, compliance-aligned test plans |
+| **Lazada / Alibaba Group** (e-commerce) | QA Engineer → QA Lead | Led QA team of 7 across 6 Southeast Asian markets serving millions, shipped the Lazada-Alibaba integration (Voyager project) |
 
-* 🔭 Building reliable **ETL processes** and validating data integrity using Python & SQL.
-* 🤖 Exploring **LLM integration** to optimize test case generation and data analysis.
-* 📈 Bridging the gap between **Performance Engineering** and scalable data architecture.
+---
+
+### 🤖 What I'm building now
+
+**[playwright-ai-healer](https://github.com/Jason-Pham/playwright-ai-healer)** is a self-healing test framework that asks OpenAI or Gemini to fix broken selectors at runtime, validates the result against the live DOM, and recovers the test automatically. It's what happens when you combine agentic AI workflows with the deterministic guards enterprise testing actually needs: denylist/allowlist validation, confidence thresholds, and provider fallback when APIs rate-limit you.
+
+I'm also consulting on AI quality, evaluating agentic AI systems across multiple languages against production-readiness thresholds, designing validation guards for LLM-powered workflows, and contributing to prompt design and dataset refinement for AI safety initiatives.
+
+---
+
+### 🛠️ Tech Stack
+
+**Automation & Testing**  
+Playwright, Cypress, Selenium, Appium, Detox, Maestro, Robot Framework, Pytest, REST Assured, Cucumber, K6, JMeter
+
+**AI & LLM tooling**  
+OpenAI API, Google Gemini API, Claude Code, agentic workflow design, prompt engineering, AI model evaluation, LLM-integrated test pipelines
+
+**Languages**  
+TypeScript, JavaScript, Python, Java, Ruby
+
+**CI/CD & Infra**  
+GitHub Actions, CircleCI, Buildkite, Jenkins, TeamCity, Docker, AWS, BrowserStack, Linux
 
 ---
 
 ### 📜 Certifications
 
-* ![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+* **AWS Certified Cloud Practitioner**
+* **Claude Code in Action**, Anthropic
+* **Financial Markets**, Yale University
+* End-to-end Automation Testing with Cypress
+* Selenium with Java
 
 ---
 
-### 📫 Let's Connect
+### 📫 What I'm looking for
 
-I am open to opportunities in **Data Engineering** and **QA Automation**. If you need someone who understands how to build quality into both software and data pipelines, let's chat.
+Senior QA, SDET, or AI-focused automation roles, remote or hybrid across Europe. I do my best work on teams where quality is a first-class concern, the stack includes modern tooling and real problems to solve, and AI is treated as a tool for engineers rather than a marketing checkbox.
+
+If that sounds like your team, let's talk.
 
 * **LinkedIn:** [Jason Pham](https://www.linkedin.com/in/jason-hung-ph/)
-* **Email:** [pqdhung@gmail.com](mailto:pqdhung@gmail.com)
-* **Phone:** +358 44 243 8867
+* **Email:** pqd.hung@gmail.com
+* **Location:** Turku, Finland
