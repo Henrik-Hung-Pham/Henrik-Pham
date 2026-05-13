@@ -1,4 +1,4 @@
-# Hung (Jason) Pham
+# Hung (Henrik) Pham
 
 ### Senior QA Automation Engineer, AI Quality Specialist
 **10+ years, 5 countries, scaled a $1B unicorn from zero QA.**
